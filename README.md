@@ -2,3 +2,6 @@
 Do you know me
 Here you will have some questions about me
 I hope you will like it.
+
+## tech-used
+- JS, chalk, replit
